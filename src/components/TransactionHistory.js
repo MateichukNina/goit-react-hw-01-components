@@ -38,4 +38,4 @@ TransactionHistory.propTypes = {
             id: PropTypes.string.isRequired,
         })
     )
-}
+};
